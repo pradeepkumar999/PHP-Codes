@@ -22,5 +22,5 @@ foreach($numbers as $number){
     }
     echo "$number<br>";
 }
-
+  
 ?>
